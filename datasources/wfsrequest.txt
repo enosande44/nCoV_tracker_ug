@@ -1,0 +1,1 @@
+http://ubos.geo-solutions.it/geoserver/wfs?access_token=63c2a99eda0d11e9a8340242ac120004?format_options=charset%3AUTF-8&typename=geonode%3Auganda_districts_2019_i&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&access_token=63c2a99eda0d11e9a8340242ac120004

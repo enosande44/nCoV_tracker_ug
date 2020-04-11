@@ -1,0 +1,10 @@
+name: nCoV_tracker_ug
+title: nCoV_tracker_ug
+username:
+account: enosande4
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2063543
+bundleId: 2999390
+url: https://enosande4.shinyapps.io/nCoV_tracker_ug/
+when: 1586595246.41728
